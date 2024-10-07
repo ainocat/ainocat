@@ -1,6 +1,6 @@
 #About Me!_Ainocat
 - 🔭 I’m currently working on Semiconductor Industry.
--     My position is Senior Equipment Engineer.
+  - My position is Senior Equipment Engineer.
 - 🌱 I’m currently learning Imaging procession for AOI tool.
 
 <!--
